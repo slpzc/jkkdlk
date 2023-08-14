@@ -9,14 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@2gis/mapgl": "^1.38.1",
+    "@reduxjs/toolkit": "^1.9.5",
     "@types/node": "20.5.0",
     "@types/react": "18.2.20",
     "@types/react-dom": "18.2.7",
+    "@types/react-redux": "^7.1.25",
+    "axios": "^1.4.0",
     "eslint": "8.47.0",
     "eslint-config-next": "13.4.13",
     "next": "13.4.13",
+    "node-sass": "^9.0.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-redux": "^8.1.2",
+    "sass": "^1.65.1",
+    "styled-components": "^6.0.7",
+    "swiper": "^10.1.0",
     "typescript": "5.1.6"
   }
 }
